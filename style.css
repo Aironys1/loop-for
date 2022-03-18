@@ -1,0 +1,14 @@
+#numeros{
+    color:blue;
+    font-weight:bold;
+    font-size:20px;
+    margin-left: 20px;
+    
+}
+
+#frota{
+    background-color:blueviolet;
+    margin-left: 20px;
+    color:white;
+    list-style:none
+}
